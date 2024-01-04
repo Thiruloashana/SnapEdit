@@ -17,7 +17,7 @@ SnapEdit is a Java-based application that provides users with a comprehensive se
 - Upload images for doodling and save your creative creations.
 
 
-### Prerequisites
+## Prerequisites
 - Java installed on your system.
 - JavaFX library.
 
